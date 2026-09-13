@@ -8,5 +8,12 @@ __pycache__/
 database.db
 supermercado_db.backup
 
-# Archivos generados
+# Fotos de productos (no se suben)
+fotos/*
+!fotos/.gitkeep
+
+comida/*
+!comida/.gitkeep
+
+# Facturas generadas
 facturas/
