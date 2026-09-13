@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Datos sensibles
+.env
+database.db
+supermercado_db.backup
+
+# Archivos generados
+facturas/
