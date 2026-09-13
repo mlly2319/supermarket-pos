@@ -9,11 +9,8 @@ database.db
 supermercado_db.backup
 
 # Fotos de productos (no se suben)
-fotos/*
-!fotos/.gitkeep
-
-comida/*
-!comida/.gitkeep
+fotos/
+comida/
 
 # Facturas generadas
 facturas/
